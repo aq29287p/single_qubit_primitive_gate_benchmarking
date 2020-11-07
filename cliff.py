@@ -87,4 +87,4 @@ if __name__ == '__main__':
 
 	#np.save('./params.npy',params)
 	np.save('./cliff.npy',cliff)
-	print('test')	
+			
